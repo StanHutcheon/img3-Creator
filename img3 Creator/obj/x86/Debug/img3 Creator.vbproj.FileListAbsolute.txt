@@ -1,0 +1,14 @@
+C:\Users\Stan\AppData\Local\Temporary Projects\img3 Creator\bin\Debug\img3 Creator.exe
+C:\Users\Stan\AppData\Local\Temporary Projects\img3 Creator\bin\Debug\img3 Creator.pdb
+C:\Users\Stan\AppData\Local\Temporary Projects\img3 Creator\bin\Debug\img3 Creator.xml
+C:\Users\Stan\AppData\Local\Temporary Projects\img3 Creator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Stan\AppData\Local\Temporary Projects\img3 Creator\obj\x86\Debug\img3_Creator.Form1.resources
+C:\Users\Stan\AppData\Local\Temporary Projects\img3 Creator\obj\x86\Debug\img3_Creator.Resources.resources
+C:\Users\Stan\AppData\Local\Temporary Projects\img3 Creator\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Stan\AppData\Local\Temporary Projects\img3 Creator\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Stan\AppData\Local\Temporary Projects\img3 Creator\obj\x86\Debug\img3 Creator.exe
+C:\Users\Stan\AppData\Local\Temporary Projects\img3 Creator\obj\x86\Debug\img3 Creator.xml
+C:\Users\Stan\AppData\Local\Temporary Projects\img3 Creator\obj\x86\Debug\img3 Creator.pdb
+C:\Users\Stan\documents\visual studio 2010\Projects\img3 Creator\img3 Creator\obj\x86\Debug\img3 Creator.exe
+C:\Users\Stan\documents\visual studio 2010\Projects\img3 Creator\img3 Creator\obj\x86\Debug\img3 Creator.xml
+C:\Users\Stan\documents\visual studio 2010\Projects\img3 Creator\img3 Creator\obj\x86\Debug\img3 Creator.pdb
